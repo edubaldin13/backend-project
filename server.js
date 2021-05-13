@@ -11,9 +11,8 @@ app.get('/', (req, res) => {
     res.render('index.ejs');
 })
 require('./src/controllers/authController')(app);
-app.post('/show', (req, res) => {
-    console.log(req.body);
-})
+
+require('./src/controllers/projectController')(app);
 
 app.listen(3333, () => {
     console.log('Server On');
