@@ -7,8 +7,8 @@ write "nodemon dev" on terminal to run the project
 In this project I used: <br>
     -> VSCode as code editor <br>
     -> Javacript as language <br>
-    -> Express as framework to create requests to the db
-    -> npm as package manager
-    -> MongoDB as database
-    -> NodeMailer to simulate a real email sender
+    -> Express as framework to create requests to the db <br>
+    -> npm as package manager <br>
+    -> MongoDB as database <br>
+    -> NodeMailer to simulate a real email sender <br>
     
