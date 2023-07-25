@@ -1,14 +1,14 @@
-# javascript-study -> backend
-This is a repository where I construct a project backend
+# Backend using javascript
+I used this repository to apply a backend exercise using javascript
 
-To start the project after cloning it into your folder, just
+To start the project after cloning it into your folder and installing all the packages, just
 write "nodemon dev" on terminal to run the project
 
-Here I use <br>
-    -> VSCode <br>
-    ->Javacript <br>
-    ->Express <br>
-    -> npm <br>
-    -> MongoDB as database <br>
-    -> NodeMailer to simulate a real email sender <br>
+In this project I used:
+    -> VSCode as code editor
+    -> Javacript as language
+    -> Express as framework to create requests to the db
+    -> npm as package manager
+    -> MongoDB as database
+    -> NodeMailer to simulate a real email sender
     
